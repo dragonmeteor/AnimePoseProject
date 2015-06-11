@@ -1,0 +1,1173 @@
+{
+  "bone_names": [
+    "body_upper",
+    "neck",
+    "head",
+    "nose_tip",
+    "nose_root",
+    "arm_left",
+    "mid_upper_arm_left",
+    "elbow_left",
+    "mid_lower_arm_left",
+    "wrist_left",
+    "thumb_left",
+    "arm_right",
+    "elbow_right",
+    "mid_upper_arm_right",
+    "wrist_right",
+    "mid_lower_arm_right",
+    "thumb_right",
+    "leg_left",
+    "mid_upper_leg_left",
+    "knee_left",
+    "mid_lower_leg_left",
+    "ankle_left",
+    "tiptoe_left",
+    "leg_right",
+    "mid_upper_leg_right",
+    "knee_right",
+    "mid_lower_leg_right",
+    "ankle_right",
+    "tiptoe_right",
+    "elbow_left_1",
+    "elbow_left_2",
+    "elbow_left_3",
+    "elbow_left_4",
+    "elbow_left_5",
+    "elbow_left_6",
+    "elbow_left_7",
+    "elbow_left_8",
+    "elbow_left_9",
+    "mid_lower_arm_left_1",
+    "mid_lower_arm_left_2",
+    "mid_lower_arm_left_3",
+    "mid_lower_arm_left_4",
+    "mid_lower_arm_left_5",
+    "mid_lower_arm_left_6",
+    "mid_lower_arm_left_7",
+    "mid_lower_arm_left_8",
+    "mid_lower_arm_left_9",
+    "wrist_left_1",
+    "wrist_left_2",
+    "wrist_left_3",
+    "wrist_left_4",
+    "wrist_left_5",
+    "wrist_left_6",
+    "wrist_left_7",
+    "wrist_left_8",
+    "wrist_left_9",
+    "thumb_left_1",
+    "thumb_left_2",
+    "thumb_left_3",
+    "thumb_left_4",
+    "thumb_left_5",
+    "thumb_left_6",
+    "thumb_left_7",
+    "thumb_left_8",
+    "thumb_left_9",
+    "elbow_right_1",
+    "elbow_right_2",
+    "elbow_right_3",
+    "elbow_right_4",
+    "elbow_right_5",
+    "elbow_right_6",
+    "elbow_right_7",
+    "elbow_right_8",
+    "elbow_right_9",
+    "mid_lower_arm_right_1",
+    "mid_lower_arm_right_2",
+    "mid_lower_arm_right_3",
+    "mid_lower_arm_right_4",
+    "mid_lower_arm_right_5",
+    "mid_lower_arm_right_6",
+    "mid_lower_arm_right_7",
+    "mid_lower_arm_right_8",
+    "mid_lower_arm_right_9",
+    "wrist_right_1",
+    "wrist_right_2",
+    "wrist_right_3",
+    "wrist_right_4",
+    "wrist_right_5",
+    "wrist_right_6",
+    "wrist_right_7",
+    "wrist_right_8",
+    "wrist_right_9",
+    "thumb_right_1",
+    "thumb_right_2",
+    "thumb_right_3",
+    "thumb_right_4",
+    "thumb_right_5",
+    "thumb_right_6",
+    "thumb_right_7",
+    "thumb_right_8",
+    "thumb_right_9",
+    "knee_left_1",
+    "knee_left_2",
+    "knee_left_3",
+    "knee_left_4",
+    "knee_left_5",
+    "knee_left_6",
+    "knee_left_7",
+    "knee_left_8",
+    "knee_left_9",
+    "mid_lower_leg_left_1",
+    "mid_lower_leg_left_2",
+    "mid_lower_leg_left_3",
+    "mid_lower_leg_left_4",
+    "mid_lower_leg_left_5",
+    "mid_lower_leg_left_6",
+    "mid_lower_leg_left_7",
+    "mid_lower_leg_left_8",
+    "mid_lower_leg_left_9",
+    "ankle_left_1",
+    "ankle_left_2",
+    "ankle_left_3",
+    "ankle_left_4",
+    "ankle_left_5",
+    "ankle_left_6",
+    "ankle_left_7",
+    "ankle_left_8",
+    "ankle_left_9",
+    "tiptoe_left_1",
+    "tiptoe_left_2",
+    "tiptoe_left_3",
+    "tiptoe_left_4",
+    "tiptoe_left_5",
+    "tiptoe_left_6",
+    "tiptoe_left_7",
+    "tiptoe_left_8",
+    "tiptoe_left_9",
+    "knee_right_1",
+    "knee_right_2",
+    "knee_right_3",
+    "knee_right_4",
+    "knee_right_5",
+    "knee_right_6",
+    "knee_right_7",
+    "knee_right_8",
+    "knee_right_9",
+    "mid_lower_leg_right_1",
+    "mid_lower_leg_right_2",
+    "mid_lower_leg_right_3",
+    "mid_lower_leg_right_4",
+    "mid_lower_leg_right_5",
+    "mid_lower_leg_right_6",
+    "mid_lower_leg_right_7",
+    "mid_lower_leg_right_8",
+    "mid_lower_leg_right_9",
+    "ankle_right_1",
+    "ankle_right_2",
+    "ankle_right_3",
+    "ankle_right_4",
+    "ankle_right_5",
+    "ankle_right_6",
+    "ankle_right_7",
+    "ankle_right_8",
+    "ankle_right_9",
+    "tiptoe_right_1",
+    "tiptoe_right_2",
+    "tiptoe_right_3",
+    "tiptoe_right_4",
+    "tiptoe_right_5",
+    "tiptoe_right_6",
+    "tiptoe_right_7",
+    "tiptoe_right_8",
+    "tiptoe_right_9"
+  ],
+  "bone_colors": {
+    "body_upper": [
+      0.5,
+      0,
+      0
+    ],
+    "body_lower": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "neck": [
+      0.75,
+      0,
+      0
+    ],
+    "head": [
+      1,
+      0,
+      0
+    ],
+    "nose_tip": [
+      1,
+      0.25,
+      0.25
+    ],
+    "nose_root": [
+      1,
+      0.5,
+      0.5
+    ],
+    "shoulder_left": [
+      0,
+      0,
+      0.25
+    ],
+    "arm_left": [
+      0,
+      0,
+      0.5
+    ],
+    "mid_upper_arm_left": [
+      0,
+      0,
+      0.625
+    ],
+    "elbow_left": [
+      0,
+      0,
+      0.75
+    ],
+    "mid_lower_arm_left": [
+      0,
+      0,
+      0.875
+    ],
+    "wrist_left": [
+      0,
+      0,
+      1
+    ],
+    "thumb_left": [
+      0.5,
+      0.5,
+      1
+    ],
+    "shoulder_right": [
+      0,
+      0.25,
+      0
+    ],
+    "arm_right": [
+      0,
+      0.5,
+      0
+    ],
+    "mid_upper_arm_right": [
+      0,
+      0.625,
+      0
+    ],
+    "elbow_right": [
+      0,
+      0.75,
+      0
+    ],
+    "mid_lower_arm_right": [
+      0,
+      0.875,
+      0
+    ],
+    "wrist_right": [
+      0,
+      1,
+      0
+    ],
+    "thumb_right": [
+      0.5,
+      1,
+      0.5
+    ],
+    "leg_left": [
+      0.25,
+      0,
+      0.25
+    ],
+    "mid_upper_leg_left": [
+      0.375,
+      0,
+      0.375
+    ],
+    "knee_left": [
+      0.5,
+      0,
+      0.5
+    ],
+    "mid_lower_leg_left": [
+      0.625,
+      0,
+      0.625
+    ],
+    "ankle_left": [
+      0.75,
+      0,
+      0.75
+    ],
+    "tiptoe_left": [
+      1,
+      0,
+      1
+    ],
+    "leg_right": [
+      0.25,
+      0.25,
+      0
+    ],
+    "mid_upper_leg_right": [
+      0.375,
+      0.375,
+      0
+    ],
+    "knee_right": [
+      0.5,
+      0.5,
+      0
+    ],
+    "mid_lower_leg_right": [
+      0.625,
+      0.625,
+      0
+    ],
+    "ankle_right": [
+      0.75,
+      0.75,
+      0
+    ],
+    "tiptoe_right": [
+      1,
+      1,
+      0
+    ],
+    "elbow_left_1": [
+      0,
+      0,
+      0.75
+    ],
+    "elbow_left_2": [
+      0,
+      0,
+      0.75
+    ],
+    "elbow_left_3": [
+      0,
+      0,
+      0.75
+    ],
+    "elbow_left_4": [
+      0,
+      0,
+      0.75
+    ],
+    "elbow_left_5": [
+      0,
+      0,
+      0.75
+    ],
+    "elbow_left_6": [
+      0,
+      0,
+      0.75
+    ],
+    "elbow_left_7": [
+      0,
+      0,
+      0.75
+    ],
+    "elbow_left_8": [
+      0,
+      0,
+      0.75
+    ],
+    "elbow_left_9": [
+      0,
+      0,
+      0.75
+    ],
+    "mid_lower_arm_left_1": [
+      0,
+      0,
+      0.875
+    ],
+    "mid_lower_arm_left_2": [
+      0,
+      0,
+      0.875
+    ],
+    "mid_lower_arm_left_3": [
+      0,
+      0,
+      0.875
+    ],
+    "mid_lower_arm_left_4": [
+      0,
+      0,
+      0.875
+    ],
+    "mid_lower_arm_left_5": [
+      0,
+      0,
+      0.875
+    ],
+    "mid_lower_arm_left_6": [
+      0,
+      0,
+      0.875
+    ],
+    "mid_lower_arm_left_7": [
+      0,
+      0,
+      0.875
+    ],
+    "mid_lower_arm_left_8": [
+      0,
+      0,
+      0.875
+    ],
+    "mid_lower_arm_left_9": [
+      0,
+      0,
+      0.875
+    ],
+    "wrist_left_1": [
+      0,
+      0,
+      1
+    ],
+    "wrist_left_2": [
+      0,
+      0,
+      1
+    ],
+    "wrist_left_3": [
+      0,
+      0,
+      1
+    ],
+    "wrist_left_4": [
+      0,
+      0,
+      1
+    ],
+    "wrist_left_5": [
+      0,
+      0,
+      1
+    ],
+    "wrist_left_6": [
+      0,
+      0,
+      1
+    ],
+    "wrist_left_7": [
+      0,
+      0,
+      1
+    ],
+    "wrist_left_8": [
+      0,
+      0,
+      1
+    ],
+    "wrist_left_9": [
+      0,
+      0,
+      1
+    ],
+    "thumb_left_1": [
+      0.5,
+      0.5,
+      1
+    ],
+    "thumb_left_2": [
+      0.5,
+      0.5,
+      1
+    ],
+    "thumb_left_3": [
+      0.5,
+      0.5,
+      1
+    ],
+    "thumb_left_4": [
+      0.5,
+      0.5,
+      1
+    ],
+    "thumb_left_5": [
+      0.5,
+      0.5,
+      1
+    ],
+    "thumb_left_6": [
+      0.5,
+      0.5,
+      1
+    ],
+    "thumb_left_7": [
+      0.5,
+      0.5,
+      1
+    ],
+    "thumb_left_8": [
+      0.5,
+      0.5,
+      1
+    ],
+    "thumb_left_9": [
+      0.5,
+      0.5,
+      1
+    ],
+    "elbow_right_1": [
+      0,
+      0.75,
+      0
+    ],
+    "elbow_right_2": [
+      0,
+      0.75,
+      0
+    ],
+    "elbow_right_3": [
+      0,
+      0.75,
+      0
+    ],
+    "elbow_right_4": [
+      0,
+      0.75,
+      0
+    ],
+    "elbow_right_5": [
+      0,
+      0.75,
+      0
+    ],
+    "elbow_right_6": [
+      0,
+      0.75,
+      0
+    ],
+    "elbow_right_7": [
+      0,
+      0.75,
+      0
+    ],
+    "elbow_right_8": [
+      0,
+      0.75,
+      0
+    ],
+    "elbow_right_9": [
+      0,
+      0.75,
+      0
+    ],
+    "mid_lower_arm_right_1": [
+      0,
+      0.875,
+      0
+    ],
+    "mid_lower_arm_right_2": [
+      0,
+      0.875,
+      0
+    ],
+    "mid_lower_arm_right_3": [
+      0,
+      0.875,
+      0
+    ],
+    "mid_lower_arm_right_4": [
+      0,
+      0.875,
+      0
+    ],
+    "mid_lower_arm_right_5": [
+      0,
+      0.875,
+      0
+    ],
+    "mid_lower_arm_right_6": [
+      0,
+      0.875,
+      0
+    ],
+    "mid_lower_arm_right_7": [
+      0,
+      0.875,
+      0
+    ],
+    "mid_lower_arm_right_8": [
+      0,
+      0.875,
+      0
+    ],
+    "mid_lower_arm_right_9": [
+      0,
+      0.875,
+      0
+    ],
+    "wrist_right_1": [
+      0,
+      1,
+      0
+    ],
+    "wrist_right_2": [
+      0,
+      1,
+      0
+    ],
+    "wrist_right_3": [
+      0,
+      1,
+      0
+    ],
+    "wrist_right_4": [
+      0,
+      1,
+      0
+    ],
+    "wrist_right_5": [
+      0,
+      1,
+      0
+    ],
+    "wrist_right_6": [
+      0,
+      1,
+      0
+    ],
+    "wrist_right_7": [
+      0,
+      1,
+      0
+    ],
+    "wrist_right_8": [
+      0,
+      1,
+      0
+    ],
+    "wrist_right_9": [
+      0,
+      1,
+      0
+    ],
+    "thumb_right_1": [
+      0.5,
+      1,
+      0.5
+    ],
+    "thumb_right_2": [
+      0.5,
+      1,
+      0.5
+    ],
+    "thumb_right_3": [
+      0.5,
+      1,
+      0.5
+    ],
+    "thumb_right_4": [
+      0.5,
+      1,
+      0.5
+    ],
+    "thumb_right_5": [
+      0.5,
+      1,
+      0.5
+    ],
+    "thumb_right_6": [
+      0.5,
+      1,
+      0.5
+    ],
+    "thumb_right_7": [
+      0.5,
+      1,
+      0.5
+    ],
+    "thumb_right_8": [
+      0.5,
+      1,
+      0.5
+    ],
+    "thumb_right_9": [
+      0.5,
+      1,
+      0.5
+    ],
+    "knee_left_1": [
+      0.5,
+      0,
+      0.5
+    ],
+    "knee_left_2": [
+      0.5,
+      0,
+      0.5
+    ],
+    "knee_left_3": [
+      0.5,
+      0,
+      0.5
+    ],
+    "knee_left_4": [
+      0.5,
+      0,
+      0.5
+    ],
+    "knee_left_5": [
+      0.5,
+      0,
+      0.5
+    ],
+    "knee_left_6": [
+      0.5,
+      0,
+      0.5
+    ],
+    "knee_left_7": [
+      0.5,
+      0,
+      0.5
+    ],
+    "knee_left_8": [
+      0.5,
+      0,
+      0.5
+    ],
+    "knee_left_9": [
+      0.5,
+      0,
+      0.5
+    ],
+    "mid_lower_leg_left_1": [
+      0.625,
+      0,
+      0.625
+    ],
+    "mid_lower_leg_left_2": [
+      0.625,
+      0,
+      0.625
+    ],
+    "mid_lower_leg_left_3": [
+      0.625,
+      0,
+      0.625
+    ],
+    "mid_lower_leg_left_4": [
+      0.625,
+      0,
+      0.625
+    ],
+    "mid_lower_leg_left_5": [
+      0.625,
+      0,
+      0.625
+    ],
+    "mid_lower_leg_left_6": [
+      0.625,
+      0,
+      0.625
+    ],
+    "mid_lower_leg_left_7": [
+      0.625,
+      0,
+      0.625
+    ],
+    "mid_lower_leg_left_8": [
+      0.625,
+      0,
+      0.625
+    ],
+    "mid_lower_leg_left_9": [
+      0.625,
+      0,
+      0.625
+    ],
+    "ankle_left_1": [
+      0.75,
+      0,
+      0.75
+    ],
+    "ankle_left_2": [
+      0.75,
+      0,
+      0.75
+    ],
+    "ankle_left_3": [
+      0.75,
+      0,
+      0.75
+    ],
+    "ankle_left_4": [
+      0.75,
+      0,
+      0.75
+    ],
+    "ankle_left_5": [
+      0.75,
+      0,
+      0.75
+    ],
+    "ankle_left_6": [
+      0.75,
+      0,
+      0.75
+    ],
+    "ankle_left_7": [
+      0.75,
+      0,
+      0.75
+    ],
+    "ankle_left_8": [
+      0.75,
+      0,
+      0.75
+    ],
+    "ankle_left_9": [
+      0.75,
+      0,
+      0.75
+    ],
+    "tiptoe_left_1": [
+      1,
+      0,
+      1
+    ],
+    "tiptoe_left_2": [
+      1,
+      0,
+      1
+    ],
+    "tiptoe_left_3": [
+      1,
+      0,
+      1
+    ],
+    "tiptoe_left_4": [
+      1,
+      0,
+      1
+    ],
+    "tiptoe_left_5": [
+      1,
+      0,
+      1
+    ],
+    "tiptoe_left_6": [
+      1,
+      0,
+      1
+    ],
+    "tiptoe_left_7": [
+      1,
+      0,
+      1
+    ],
+    "tiptoe_left_8": [
+      1,
+      0,
+      1
+    ],
+    "tiptoe_left_9": [
+      1,
+      0,
+      1
+    ],
+    "knee_right_1": [
+      0.5,
+      0.5,
+      0
+    ],
+    "knee_right_2": [
+      0.5,
+      0.5,
+      0
+    ],
+    "knee_right_3": [
+      0.5,
+      0.5,
+      0
+    ],
+    "knee_right_4": [
+      0.5,
+      0.5,
+      0
+    ],
+    "knee_right_5": [
+      0.5,
+      0.5,
+      0
+    ],
+    "knee_right_6": [
+      0.5,
+      0.5,
+      0
+    ],
+    "knee_right_7": [
+      0.5,
+      0.5,
+      0
+    ],
+    "knee_right_8": [
+      0.5,
+      0.5,
+      0
+    ],
+    "knee_right_9": [
+      0.5,
+      0.5,
+      0
+    ],
+    "mid_lower_leg_right_1": [
+      0.625,
+      0.625,
+      0
+    ],
+    "mid_lower_leg_right_2": [
+      0.625,
+      0.625,
+      0
+    ],
+    "mid_lower_leg_right_3": [
+      0.625,
+      0.625,
+      0
+    ],
+    "mid_lower_leg_right_4": [
+      0.625,
+      0.625,
+      0
+    ],
+    "mid_lower_leg_right_5": [
+      0.625,
+      0.625,
+      0
+    ],
+    "mid_lower_leg_right_6": [
+      0.625,
+      0.625,
+      0
+    ],
+    "mid_lower_leg_right_7": [
+      0.625,
+      0.625,
+      0
+    ],
+    "mid_lower_leg_right_8": [
+      0.625,
+      0.625,
+      0
+    ],
+    "mid_lower_leg_right_9": [
+      0.625,
+      0.625,
+      0
+    ],
+    "ankle_right_1": [
+      0.75,
+      0.75,
+      0
+    ],
+    "ankle_right_2": [
+      0.75,
+      0.75,
+      0
+    ],
+    "ankle_right_3": [
+      0.75,
+      0.75,
+      0
+    ],
+    "ankle_right_4": [
+      0.75,
+      0.75,
+      0
+    ],
+    "ankle_right_5": [
+      0.75,
+      0.75,
+      0
+    ],
+    "ankle_right_6": [
+      0.75,
+      0.75,
+      0
+    ],
+    "ankle_right_7": [
+      0.75,
+      0.75,
+      0
+    ],
+    "ankle_right_8": [
+      0.75,
+      0.75,
+      0
+    ],
+    "ankle_right_9": [
+      0.75,
+      0.75,
+      0
+    ],
+    "tiptoe_right_1": [
+      1,
+      1,
+      0
+    ],
+    "tiptoe_right_2": [
+      1,
+      1,
+      0
+    ],
+    "tiptoe_right_3": [
+      1,
+      1,
+      0
+    ],
+    "tiptoe_right_4": [
+      1,
+      1,
+      0
+    ],
+    "tiptoe_right_5": [
+      1,
+      1,
+      0
+    ],
+    "tiptoe_right_6": [
+      1,
+      1,
+      0
+    ],
+    "tiptoe_right_7": [
+      1,
+      1,
+      0
+    ],
+    "tiptoe_right_8": [
+      1,
+      1,
+      0
+    ],
+    "tiptoe_right_9": [
+      1,
+      1,
+      0
+    ]
+  },
+  "edges": [
+    [
+      "body_upper",
+      "neck"
+    ],
+    [
+      "neck",
+      "head"
+    ],
+    [
+      "head",
+      "nose_tip"
+    ],
+    [
+      "head",
+      "nose_root"
+    ],
+    [
+      "neck",
+      "arm_left"
+    ],
+    [
+      "arm_left",
+      "mid_upper_arm_left"
+    ],
+    [
+      "mid_upper_arm_left",
+      "elbow_left"
+    ],
+    [
+      "elbow_left",
+      "mid_lower_arm_left"
+    ],
+    [
+      "mid_lower_arm_left",
+      "wrist_left"
+    ],
+    [
+      "wrist_left",
+      "thumb_left"
+    ],
+    [
+      "neck",
+      "arm_right"
+    ],
+    [
+      "arm_right",
+      "mid_upper_arm_right"
+    ],
+    [
+      "mid_upper_arm_right",
+      "elbow_right"
+    ],
+    [
+      "elbow_right",
+      "mid_lower_arm_right"
+    ],
+    [
+      "mid_lower_arm_right",
+      "wrist_right"
+    ],
+    [
+      "wrist_right",
+      "thumb_right"
+    ],
+    [
+      "body_upper",
+      "leg_left"
+    ],
+    [
+      "leg_left",
+      "mid_upper_leg_left"
+    ],
+    [
+      "mid_upper_leg_left",
+      "knee_left"
+    ],
+    [
+      "knee_left",
+      "mid_lower_leg_left"
+    ],
+    [
+      "mid_lower_leg_left",
+      "ankle_left"
+    ],
+    [
+      "ankle_left",
+      "tiptoe_left"
+    ],
+    [
+      "body_upper",
+      "leg_right"
+    ],
+    [
+      "leg_right",
+      "mid_upper_leg_right"
+    ],
+    [
+      "mid_upper_leg_right",
+      "knee_right"
+    ],
+    [
+      "knee_right",
+      "mid_lower_leg_right"
+    ],
+    [
+      "mid_lower_leg_right",
+      "ankle_right"
+    ],
+    [
+      "ankle_right",
+      "tiptoe_right"
+    ]
+  ]
+}

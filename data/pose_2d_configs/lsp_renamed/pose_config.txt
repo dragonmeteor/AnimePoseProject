@@ -1,0 +1,144 @@
+{
+  "bone_names": [
+    "ankle_right",
+    "knee_right",
+    "leg_right",
+    "leg_left",
+    "knee_left",
+    "ankle_left",
+    "wrist_right",
+    "elbow_right",
+    "arm_right",
+    "arm_left",
+    "elbow_left",
+    "wrist_left",
+    "neck",
+    "head_top"
+  ],
+  "bone_colors": {
+    "neck": [
+      0.75,
+      0,
+      0
+    ],
+    "head_top": [
+      1,
+      0,
+      0
+    ],
+    "arm_left": [
+      0,
+      0,
+      0.5
+    ],
+    "elbow_left": [
+      0,
+      0,
+      0.75
+    ],
+    "wrist_left": [
+      0,
+      0,
+      1
+    ],
+    "arm_right": [
+      0,
+      0.5,
+      0
+    ],
+    "elbow_right": [
+      0,
+      0.75,
+      0
+    ],
+    "wrist_right": [
+      0,
+      1,
+      0
+    ],
+    "leg_left": [
+      0.25,
+      0,
+      0.25
+    ],
+    "knee_left": [
+      0.5,
+      0,
+      0.5
+    ],
+    "ankle_left": [
+      0.75,
+      0,
+      0.75
+    ],
+    "leg_right": [
+      0.25,
+      0.25,
+      0
+    ],
+    "knee_right": [
+      0.5,
+      0.5,
+      0
+    ],
+    "ankle_right": [
+      0.75,
+      0.75,
+      0
+    ]
+  },
+  "edges": [
+    [
+      "neck",
+      "head_top"
+    ],
+    [
+      "arm_left",
+      "elbow_left"
+    ],
+    [
+      "elbow_left",
+      "wrist_left"
+    ],
+    [
+      "arm_right",
+      "elbow_right"
+    ],
+    [
+      "elbow_right",
+      "wrist_right"
+    ],
+    [
+      "leg_left",
+      "knee_left"
+    ],
+    [
+      "knee_left",
+      "ankle_left"
+    ],
+    [
+      "leg_right",
+      "knee_right"
+    ],
+    [
+      "knee_right",
+      "ankle_right"
+    ],
+    [
+      "arm_left",
+      "leg_left"
+    ],
+    [
+      "arm_right",
+      "leg_right"
+    ],
+    [
+      "neck",
+      "arm_left"
+    ],
+    [
+      "neck",
+      "arm_right"
+    ]
+  ]
+}

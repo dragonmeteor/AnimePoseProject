@@ -1,0 +1,224 @@
+{
+  "bone_names": [
+    "ankle_right",
+    "mid_lower_leg_right",
+    "knee_right",
+    "mid_upper_leg_right",
+    "leg_right",
+    "leg_left",
+    "mid_upper_leg_left",
+    "knee_left",
+    "mid_lower_leg_left",
+    "ankle_left",
+    "wrist_right",
+    "mid_lower_arm_right",
+    "elbow_right",
+    "mid_upper_arm_right",
+    "arm_right",
+    "arm_left",
+    "mid_upper_arm_left",
+    "elbow_left",
+    "mid_lower_arm_left",
+    "wrist_left",
+    "neck",
+    "head_top"
+  ],
+  "bone_colors": {
+    "neck": [
+      0.75,
+      0,
+      0
+    ],
+    "head_top": [
+      1,
+      0,
+      0
+    ],
+    "arm_left": [
+      0,
+      0,
+      0.5
+    ],
+    "mid_upper_arm_left": [
+      0,
+      0,
+      0.625
+    ],
+    "elbow_left": [
+      0,
+      0,
+      0.75
+    ],
+    "mid_lower_arm_left": [
+      0,
+      0,
+      0.875
+    ],
+    "wrist_left": [
+      0,
+      0,
+      1
+    ],
+    "arm_right": [
+      0,
+      0.5,
+      0
+    ],
+    "mid_upper_arm_right": [
+      0,
+      0.625,
+      0
+    ],
+    "elbow_right": [
+      0,
+      0.75,
+      0
+    ],
+    "mid_lower_arm_right": [
+      0,
+      0.875,
+      0
+    ],
+    "wrist_right": [
+      0,
+      1,
+      0
+    ],
+    "leg_left": [
+      0.25,
+      0,
+      0.25
+    ],
+    "mid_upper_leg_left": [
+      0.375,
+      0,
+      0.375
+    ],
+    "knee_left": [
+      0.5,
+      0,
+      0.5
+    ],
+    "mid_lower_leg_left": [
+      0.625,
+      0,
+      0.625
+    ],
+    "ankle_left": [
+      0.75,
+      0,
+      0.75
+    ],
+    "leg_right": [
+      0.25,
+      0.25,
+      0
+    ],
+    "mid_upper_leg_right": [
+      0.375,
+      0.375,
+      0
+    ],
+    "knee_right": [
+      0.5,
+      0.5,
+      0
+    ],
+    "mid_lower_leg_right": [
+      0.625,
+      0.625,
+      0
+    ],
+    "ankle_right": [
+      0.75,
+      0.75,
+      0
+    ]
+  },
+  "edges": [
+    [
+      "neck",
+      "head_top"
+    ],
+    [
+      "arm_left",
+      "mid_upper_arm_left"
+    ],
+    [
+      "mid_upper_arm_left",
+      "elbow_left"
+    ],
+    [
+      "elbow_left",
+      "mid_lower_arm_left"
+    ],
+    [
+      "mid_lower_arm_left",
+      "wrist_left"
+    ],
+    [
+      "arm_right",
+      "mid_upper_arm_right"
+    ],
+    [
+      "mid_upper_arm_right",
+      "elbow_right"
+    ],
+    [
+      "elbow_right",
+      "mid_lower_arm_right"
+    ],
+    [
+      "mid_lower_arm_right",
+      "wrist_right"
+    ],
+    [
+      "leg_left",
+      "mid_upper_leg_left"
+    ],
+    [
+      "mid_upper_leg_left",
+      "knee_left"
+    ],
+    [
+      "knee_left",
+      "mid_lower_leg_left"
+    ],
+    [
+      "mid_lower_leg_left",
+      "ankle_left"
+    ],
+    [
+      "leg_right",
+      "mid_upper_leg_right"
+    ],
+    [
+      "mid_upper_leg_right",
+      "knee_right"
+    ],
+    [
+      "knee_right",
+      "mid_lower_leg_right"
+    ],
+    [
+      "mid_lower_leg_right",
+      "ankle_right"
+    ],
+    [
+      "arm_left",
+      "leg_left"
+    ],
+    [
+      "arm_right",
+      "leg_right"
+    ],
+    [
+      "neck",
+      "arm_left"
+    ],
+    [
+      "neck",
+      "arm_right"
+    ]
+  ]
+}

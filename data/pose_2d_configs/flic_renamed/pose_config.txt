@@ -1,0 +1,106 @@
+{
+  "bone_names": [
+    "arm_left",
+    "elbow_left",
+    "wrist_left",
+    "arm_right",
+    "elbow_right",
+    "wrist_right",
+    "leg_left",
+    "leg_right",
+    "eye_left",
+    "eye_right",
+    "nose"
+  ],
+  "bone_colors": {
+    "eye_right": [
+      1,
+      0.75,
+      0.75
+    ],
+    "eye_left": [
+      1,
+      0.25,
+      0.25
+    ],
+    "nose": [
+      1,
+      0.5,
+      0.5
+    ],
+    "arm_left": [
+      0,
+      0,
+      0.5
+    ],
+    "elbow_left": [
+      0,
+      0,
+      0.75
+    ],
+    "wrist_left": [
+      0,
+      0,
+      1
+    ],
+    "arm_right": [
+      0,
+      0.5,
+      0
+    ],
+    "elbow_right": [
+      0,
+      0.75,
+      0
+    ],
+    "wrist_right": [
+      0,
+      1,
+      0
+    ],
+    "leg_left": [
+      0.5,
+      0,
+      0.5
+    ],
+    "leg_right": [
+      0.5,
+      0.5,
+      0
+    ]
+  },
+  "edges": [
+    [
+      "arm_left",
+      "elbow_left"
+    ],
+    [
+      "elbow_left",
+      "wrist_left"
+    ],
+    [
+      "arm_right",
+      "elbow_right"
+    ],
+    [
+      "elbow_right",
+      "wrist_right"
+    ],
+    [
+      "nose",
+      "eye_left"
+    ],
+    [
+      "nose",
+      "eye_right"
+    ],
+    [
+      "arm_left",
+      "leg_left"
+    ],
+    [
+      "arm_right",
+      "leg_right"
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "bone_xforms": {
+    "arm_left": [
+      [
+        1,
+        "left_shoulder"
+      ]
+    ],
+    "elbow_left": [
+      [
+        1,
+        "left_elbow"
+      ]
+    ],
+    "wrist_left": [
+      [
+        1,
+        "left_wrist"
+      ]
+    ],
+    "arm_right": [
+      [
+        1,
+        "right_shoulder"
+      ]
+    ],
+    "elbow_right": [
+      [
+        1,
+        "right_elbow"
+      ]
+    ],
+    "wrist_right": [
+      [
+        1,
+        "right_wrist"
+      ]
+    ],
+    "leg_left": [
+      [
+        1,
+        "left_hip"
+      ]
+    ],
+    "leg_right": [
+      [
+        1,
+        "right_hip"
+      ]
+    ],
+    "eye_left": [
+      [
+        1,
+        "left_eye"
+      ]
+    ],
+    "eye_right": [
+      [
+        1,
+        "right_eye"
+      ]
+    ],
+    "nose": [
+      [
+        1,
+        "nose"
+      ]
+    ]
+  }
+}

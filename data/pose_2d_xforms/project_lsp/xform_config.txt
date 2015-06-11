@@ -1,0 +1,88 @@
+{
+  "bone_xforms": {
+    "right_ankle": [
+      [
+        1.0,
+        "right_ankle"
+      ]
+    ],
+    "right_knee": [
+      [
+        1.0,
+        "right_knee"
+      ]
+    ],
+    "right_hip": [
+      [
+        1.0,
+        "right_hip"
+      ]
+    ],
+    "left_hip": [
+      [
+        1.0,
+        "left_hip"
+      ]
+    ],
+    "left_knee": [
+      [
+        1.0,
+        "left_knee"
+      ]
+    ],
+    "left_ankle": [
+      [
+        1.0,
+        "left_ankle"
+      ]
+    ],
+    "right_wrist": [
+      [
+        1.0,
+        "right_wrist"
+      ]
+    ],
+    "right_elbow": [
+      [
+        1.0,
+        "right_elbow"
+      ]
+    ],
+    "right_shoulder": [
+      [
+        1.0,
+        "right_shoulder"
+      ]
+    ],
+    "left_shoulder": [
+      [
+        1.0,
+        "left_shoulder"
+      ]
+    ],
+    "left_elbow": [
+      [
+        1.0,
+        "left_elbow"
+      ]
+    ],
+    "left_wrist": [
+      [
+        1.0,
+        "left_wrist"
+      ]
+    ],
+    "neck": [
+      [
+        1.0,
+        "neck"
+      ]
+    ],
+    "head_top": [
+      [
+        1.0,
+        "head_top"
+      ]
+    ]
+  }
+}
