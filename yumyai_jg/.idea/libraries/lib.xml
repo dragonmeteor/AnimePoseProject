@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-exec-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-backend-lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-bullet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-openal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/TableLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-backend-lwjgl-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-bullet-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-natives-windows-i586.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-exec-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vecmath-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-exec-1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-backend-lwjgl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-bullet-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-openal-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.0.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.0.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/TableLayout.jar!/" />
+    </SOURCES>
+  </library>
+</component>

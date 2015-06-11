@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="yumyai_jg">
+    <output-path>$PROJECT_DIR$/dist</output-path>
+    <root id="archive" name="yumyai_jg.jar">
+      <element id="module-output" name="yumyai_jg" />
+    </root>
+  </artifact>
+</component>
